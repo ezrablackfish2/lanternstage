@@ -1,0 +1,14 @@
+/build/
+/out/
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+*.profraw
+*.profdata
+crash-*
+leak-*
+timeout-*
+.DS_Store
