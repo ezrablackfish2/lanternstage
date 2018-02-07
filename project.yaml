@@ -1,0 +1,9 @@
+name: lanternstage
+language: c++
+primary_contact: maintainers@lanternstage.invalid
+fuzz_targets:
+  - transaction_fuzzer
+  - package_fuzzer
+  - snapshot_fuzzer
+  - compositor_fuzzer
+  - expression_fuzzer
