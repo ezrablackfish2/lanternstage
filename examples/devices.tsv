@@ -1,0 +1,3 @@
+# id	name	locale	capabilities	capacity	available	width	height	bandwidth_kib_s	network	available_from	available_until
+100	Entrance A	en-US	7	4194304	4194304	1920	1080	1024	standard	1782550800	1782670000
+101	Entrance B	en-US	7	4194304	4194304	1920	1080	256	metered	1782550800	1782670000
